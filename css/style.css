@@ -1,0 +1,22 @@
+body {
+	background: #222831;
+	color: #fff;
+	margin: 20;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.container {
+	width: 95%;
+	margin: 25px;
+}
+
+.displayImg {
+	width:100px;
+	height: 100px;
+}
+
+.displayTable {
+	margin: 25px;
+}
+
